@@ -1,3 +1,8 @@
+# Outdated repo
+This repository is mostly outdated. There has been a lot of new thins happening with the Axis ACAP SDKs since this repo was created. The repo does however contain a lot of valuable information, therefore we will leave it here as a reference.
+
+For more up to date inforation, take a look at the [AXIS Native SDK](https://github.com/AxisCommunications/acap-native-sdk-examples/) and the [AXIS Computer Vision SDK](https://github.com/AxisCommunications/acap-computer-vision-sdk-examples). You can also read our [comprehensive article on what SDK to use](https://www.linkedin.com/pulse/comprehensive-guide-axis-network-camera-edge-application-sdks/).
+
 # Rapid development using *python* applications in Axis cameras
 
 Developing ACAPs (*AXIS Camera Application Platform*) applications, or any other cross compiled edge applications, can be a significant time investment. When developing computer vision software or analytics applications it is useful to be able to do fast prototyping and reduce the delay between an idea and use case driven feed back. This repository aims to show a quick and simple way to develop applications in *python* and run them in the camera. The aim is not to show a production ready process or a
